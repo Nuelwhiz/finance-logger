@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./public",
+
+    "module": "ESNext",
+    "target": "ESNext",
+
+    "sourceMap": true,
+
+    "strict": true,
+    "jsx": "react-jsx",
+    "isolatedModules": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"] // tells it to compile only ts files in src
+}
