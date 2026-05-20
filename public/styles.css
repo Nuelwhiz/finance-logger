@@ -11,7 +11,7 @@ body {
 h1 {
   margin: 40px auto;
   color: #ff0aa7;
-  font-size: 3.5rem;
+  font-size: 3rem;
   text-align: center;
 }
 ul {
@@ -26,7 +26,7 @@ li {
 li h4 {
   color: #ff0aa7;
   margin: 0;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   text-transform: capitalize;
 }
 li p {
@@ -47,7 +47,7 @@ form {
 label {
   display: block;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1rem;
   color: #333;
   margin: 16px 0 6px;
 }
@@ -79,7 +79,7 @@ button:hover {
 footer a {
   text-align: center;
   display: block;
-  color: #999;
+  color: rgb(216, 113, 199);
   margin-top: 40px;
   font-size: 0.7em;
 }
